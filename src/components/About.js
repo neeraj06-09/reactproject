@@ -18,7 +18,7 @@ const About = () => {
           </div>
           <div className="col-6">
             <div className="about__img">
-              <img src="/img/story_pizza.jpg" alt="Pizza" />
+              <img src="https://uspizza.in/images/story-front.jpg" alt="Pizza" />
             </div>
           </div>  
         </div>
